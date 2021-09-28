@@ -13,9 +13,13 @@ Accepted by ICCVW
 
 ## Required libraries
 python 3.6
+
 pytorch 1.0+
+
 numpy
+
 PIl
+
 torchvision
 
 
@@ -37,6 +41,6 @@ torchvision
     ```
     python train.py
     ```
-    
+
 ## Citation
     {Huiming Sun, Yuewei Lin, Qin Zou, Shaoyue Song, Jianwu Fang, Hongkai Yu. Convolutional Neural Networks Based Remote Sensing Scene Classification under Clear and Cloudy Environments. IEEE International Conference on Computer Vision Workshop (ICCVW), 2021.}
