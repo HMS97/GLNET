@@ -3,10 +3,10 @@ Accepted by ICCVW
 
 
 
-#### Remote Sensing scene image classification under clear and cloudy environments. 
+### Remote Sensing scene image classification under clear and cloudy environments. 
 ![show example](images/show_example.png)
 
-#### Overview architecture of the proposed GLNet for the RS scene classification under clear and cloudy environments.
+### Overview architecture of the proposed GLNet for the RS scene classification under clear and cloudy environments.
 ![archicture](images/architecture.png)
 
 
