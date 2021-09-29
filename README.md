@@ -1,5 +1,5 @@
 # Convolutional Neural Networks Based Remote Sensing Scene Classification under Clear and Cloudy Environments
-Accepted by ICCVW
+Accepted by ICCVW 2021
 
 
 
